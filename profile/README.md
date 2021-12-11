@@ -7,8 +7,8 @@
                                                  (_/              
 ```
 
-Subcompanies:
--
+## Subcompanies:
+
 - [The LAB](https://github.com/Red-Laboratory)
 
 #
