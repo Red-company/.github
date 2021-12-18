@@ -9,8 +9,8 @@
 
 ## Subcompanies:
 
-- [The LAB](https://github.com/Red-Laboratory)
-- [Red Collaborate Team](https://github.com/Red-Collaborate-Team)
+- [_The LAB_](https://github.com/Red-Laboratory)
+- [_Red Collaborate Team_](https://github.com/Red-Collaborate-Team)
 
 #
 
