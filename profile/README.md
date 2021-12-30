@@ -7,6 +7,8 @@
                                                  (_/              
 ```
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23Ff3f36&lines=Easy.+Open.+Secure.)](https://git.io/typing-svg)
+
 ## Subcompanies:
 
 - [_The LAB_](https://github.com/Red-Laboratory)
