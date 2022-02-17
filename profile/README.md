@@ -7,7 +7,7 @@
                                                  (_/              
 ```
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23Ff3f36&lines=Easy.+Open.+Secure.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23Ff3f36&lines=Easy.+Open.+Secure.;Security+is+our+business.;Better+decisions+--+better+World.)](https://git.io/typing-svg)
 
 ## Subcompanies:
 
