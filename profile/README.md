@@ -1,10 +1,11 @@
 ```diff
--                       _____               ______)                                                         -
-                       (, /   )      /)    (, /        /)          /)        ,        
--                        /__ /  _  _(/       /   _  _ (/  __   ___// ____       _  _                        -
-                      ) /   \__(/_(_(_    ) /  _(/_(__/ )_/ (_(_)(/_(_)(_/__(__(/_/_)_
--                    (_/                 (_/                          .-/                                   -
-                                                                     (_/              
+
+-                          _____               ______)                                                         -
+                          (, /   )      /)    (, /        /)          /)        ,        
+-                           /__ /  _  _(/       /   _  _ (/  __   ___// ____       _  _                        -
+                         ) /   \__(/_(_(_    ) /  _(/_(__/ )_/ (_(_)(/_(_)(_/__(__(/_/_)_
+-                       (_/                 (_/                          .-/                                   -
+                                                                        (_/              
 ```
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23Ff3f36&width=450&lines=Easy.+Open.+Secure.;Security+is+our+business.;Better+decisions+--+better+World.)](https://git.io/typing-svg)
