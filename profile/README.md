@@ -10,10 +10,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%23Ff3f36&width=450&lines=Easy.+Open.+Secure.;Security+is+our+business.;Better+decisions+--+better+World.)](https://git.io/typing-svg)
 
-## Subcompanies:
+## Suborganizatons:
 
 - [_The LAB_](https://github.com/Red-Laboratory)
-- [_Red Collaborate Team_](https://github.com/Red-Collaborate-Team)
 
 #
 
